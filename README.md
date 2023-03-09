@@ -4,9 +4,9 @@
 
 ola, sou o Adilson, Tech Lead/Fullstack developer Nodejs, atuando em diferentes tipos de projeto com ferramentas e tecnologias diferentes. Projetos em arquitetura de microservicos, baseadas em eventos e serverless.
 Trabalho em equipe, ajudando e aprendendo sempre, definindo melhores opcoes para a arquitetura de novos projetos.
-Desenvolvimento baseado em clear code, clear archteture e TDD.
+Desenvolvimento seguindo os principios de clear code, clear archteture e TDD.
   - typescript 
-  - AWS cloud
+  - AWS Cloud
   - docker
   - RESTfulApi com express,HapiJs e Fastify
   - metodologias ageis: SCRUM, OKRs e KANBAN.
