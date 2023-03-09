@@ -2,6 +2,15 @@
   <img src="https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/master/name.svg" alt="Adilson Cruz" />
 </h1>
 
+ola, sou o Adilson, Tech Lead/Fullstack developer Nodejs, atuando em diferentes tipos de projeto com ferramentas e tecnologias diferentes. Projetos em arquitetura de microservicos, baseadas em eventos e serverless.
+Trabalho em equipe, ajudando e aprendendo sempre, definindo melhores opcoes para a arquitetura de novos projetos.
+Desenvolvimento baseado em clear code, clear archteture e TDD.
+  - typescript 
+  - AWS cloud
+  - docker
+  - RESTfulApi com express,HapiJs e Fastify
+metodologias ageis: SCRUM, OKRs e KANBAN.
+
 [![Linkedin: anmol](https://img.shields.io/badge/-adilsoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsoncruz/)](https://www.linkedin.com/in/adilsoncruz/)
 
 ```javascript
