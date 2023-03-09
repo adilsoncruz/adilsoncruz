@@ -25,6 +25,8 @@ const adilson = {
     currentFocus: "Learnning Go, AWS Certificate",
 };
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **adilsoncruz/adilsoncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
