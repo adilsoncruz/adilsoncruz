@@ -9,6 +9,7 @@ Desenvolvimento seguindo os principios de clear code, clear archteture e TDD.
   - AWS Cloud
   - docker
   - RESTfulApi com express,HapiJs e Fastify
+  - Clear Archtetury, Event Driven, Microservices
   - metodologias ageis: SCRUM, OKRs e KANBAN.
 
 [![Linkedin: anmol](https://img.shields.io/badge/-adilsoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsoncruz/)](https://www.linkedin.com/in/adilsoncruz/)
