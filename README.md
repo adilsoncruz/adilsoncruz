@@ -32,7 +32,7 @@ const adilson = {
     },
     architecture: ["Serverless Architecture", "MicroServices Architecture", "event-driven architecture", "Single page applications"],
     misc: [ "Clear Code", "Clear architecture", "S.O.L.I.D"],
-    currentFocus: "Learnning Go, AWS Certificate",
+    currentFocus: "Learnning Go,python and AWS Certificate",
 };
 ```
 <!--START_SECTION:waka-->
