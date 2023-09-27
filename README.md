@@ -17,7 +17,7 @@ Desenvolvimento seguindo os principios de clear code, Clean Architecture e TDD.
 ```javascript
 const adilson = {
     pronouns: "Ele" | "Dele",
-    code: ["Javascript" ],
+    code: ["Javascript", "GoLang", "python" ],
     askMeAbout: ["web dev", "tech", "backend", "rock and roll"],
     technologies: {
         backEnd: {
