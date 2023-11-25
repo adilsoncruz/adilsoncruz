@@ -5,15 +5,7 @@
 ola, sou o Adilson, Software Engineer, atuando em diferentes tipos de projeto com ferramentas e tecnologias diferentes. Projetos em arquitetura de microservicos, baseadas em eventos e serverless.
 Trabalho em equipe, ajudando e aprendendo sempre, definindo melhores opcoes para a arquitetura de novos projetos.
 Desenvolvimento seguindo os principios de clear code, Clean Architecture e TDD.
-  - typescript
-  - GoLang
-  - AWS Cloud
-  - Serverless
-  - docker
-  - RESTfulApi com express,HapiJs e Fastify
-  - Clean Architecture, Event Driven, Microservices
-  - metodologias ageis: SCRUM, OKRs e KANBAN.
-
+ 
 [![Linkedin: anmol](https://img.shields.io/badge/-adilsoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsoncruz/)](https://www.linkedin.com/in/adilsoncruz/)
 
 ```javascript
