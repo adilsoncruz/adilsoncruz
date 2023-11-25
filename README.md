@@ -7,7 +7,6 @@ Trabalho em equipe, ajudando e aprendendo sempre, definindo melhores opcoes para
 Desenvolvimento seguindo os principios de clear code, Clean Architecture e TDD.
   - typescript
   - GoLang
-  - python
   - AWS Cloud
   - Serverless
   - docker
