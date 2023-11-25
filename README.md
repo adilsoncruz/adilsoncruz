@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/master/name.svg" alt="Adilson Cruz" />
 </h1>
 
-ola, sou o Adilson, Tech Lead/Fullstack developer Nodejs, atuando em diferentes tipos de projeto com ferramentas e tecnologias diferentes. Projetos em arquitetura de microservicos, baseadas em eventos e serverless.
+ola, sou o Adilson, Software Engineer, atuando em diferentes tipos de projeto com ferramentas e tecnologias diferentes. Projetos em arquitetura de microservicos, baseadas em eventos e serverless.
 Trabalho em equipe, ajudando e aprendendo sempre, definindo melhores opcoes para a arquitetura de novos projetos.
 Desenvolvimento seguindo os principios de clear code, Clean Architecture e TDD.
   - typescript
