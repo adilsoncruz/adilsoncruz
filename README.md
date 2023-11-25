@@ -30,6 +30,76 @@ const adilson = {
 };
 ```
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌆 Daytime                62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌃 Evening                139 commits         ██████████████░░░░░░░░░░░   55.60 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Tuesday                  58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Sunday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ███████████████████░░░░░░   76.47 % 
+Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/11/2023 04:20:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
