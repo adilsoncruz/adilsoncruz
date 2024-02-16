@@ -30,13 +30,15 @@ const adilson = {
 };
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,19 +73,17 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               23 mins             ███████████████░░░░░░░░░░   58.69 % 
-JSON                     14 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JavaScript               23 mins             ███████████████████████░░   91.25 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-auto-grafana             26 mins             ████████████████░░░░░░░░░   64.32 % 
-cadastro-unificado-global14 mins             █████████░░░░░░░░░░░░░░░░   35.68 % 
+auto-grafana             26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      40 mins             █████████████████████████   100.00 % 
+WSL                      26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +102,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:35:00 UTC
+ Last Updated on 16/02/2024 18:35:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
