@@ -30,7 +30,7 @@ const adilson = {
 };
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,16 +73,17 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+JavaScript               21 mins             ███████████████████████░░   91.16 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-brm-commercial-api       0 secs              █████████████████████████   100.00 % 
+brm-commercial-api       23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      0 secs              █████████████████████████   100.00 % 
+WSL                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +102,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2024 18:35:02 UTC
+ Last Updated on 23/02/2024 18:35:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
