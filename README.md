@@ -38,8 +38,6 @@ const adilson = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -101,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 18:39:04 UTC
+ Last Updated on 16/04/2025 18:41:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
