@@ -30,8 +30,6 @@ const adilson = {
 };
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -46,45 +44,6 @@ const adilson = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-🌆 Daytime                62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌃 Evening                139 commits         ██████████████░░░░░░░░░░░   55.60 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Sunday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +60,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 18:41:17 UTC
+ Last Updated on 21/05/2025 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
