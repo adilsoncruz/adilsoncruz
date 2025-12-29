@@ -2,141 +2,79 @@
   <img src="https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/master/name.svg" alt="Adilson Cruz" />
 </h1>
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/adilsoncruz)
+## 👋 Hi, I'm Adilson Cruz
 
-Hi! 👋
-I’m a developer who builds open-source projects focused on solving real-world problems, sharing knowledge, and making other developers’ lives easier.
+Backend Software Engineer focused on building scalable, reliable systems and clean architectures.
 
-A big part of my time goes into:
+I work with distributed teams across Latin America (Argentina, Colombia and Chile), delivering backend solutions with strong emphasis on performance, maintainability and cloud-native design.
 
-Building and maintaining open-source libraries
+---
 
-Creating reusable technical tools
+## 🚀 Tech Stack & Expertise
 
- 
-[![Linkedin: anmol](https://img.shields.io/badge/-adilsoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsoncruz/)](https://www.linkedin.com/in/adilsoncruz/)
+**Backend**
+- Node.js (Fastify, Express, Hapi, TypeScript)
+- Kotlin (Spring Framework)
+- Go (learning & applied in backend services)
+- Python (scripting, automation, tooling)
 
-```javascript
-const adilson = {
-  pronouns: "he/him",
-  role: "Backend Software Engineer",
-  code: ["JavaScript", "TypeScript", "Go", "Python", "Kotlin"],
-  askMeAbout: ["backend", "web development", "system design", "open source", "rock and roll 🤘"],
-  technologies: {
-    backEnd: {
-      js: ["Node.js", "Fastify", "Express", "Hapi"],
-      kotlin: ["Spring Boot", "Spring Framework"],
-      go: ["Gin", "Fiber"]
-    },
-    mobile: {
-      hybrid: ["React Native"]
-    },
-    devOps: ["AWS", "Docker 🐳", "Nginx", "Route53"],
-    databases: ["MongoDB", "Redis", "DynamoDB", "Oracle"],
-    messaging: ["RabbitMQ", "SQS", "Kafka", "NiFi"]
-  },
-  architecture: [
-    "Microservices",
-    "Serverless",
-    "Event-driven architecture",
-    "REST APIs",
-    "Single Page Applications"
-  ],
-  principles: ["Clean Code", "Clean Architecture", "SOLID"],
-  currentFocus: [
-    "Go & Python deep dive",
-    "Cloud architecture on AWS",
-    "AWS Certifications",
-    "Open source projects"
-  ]
-};
-```
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%205%20mins-blue)
+**Cloud & DevOps**
+- AWS (Serverless, EC2, S3, DynamoDB, SQS)
+- Docker 🐳
+- Nginx
+- CI/CD pipelines
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+**Databases & Messaging**
+- MongoDB, Redis, DynamoDB, Oracle
+- RabbitMQ, SQS, Kafka, NiFi
 
-**🐱 My GitHub Data** 
+**Architecture & Practices**
+- Microservices Architecture
+- Serverless Architecture
+- Event-Driven Systems
+- Clean Code & Clean Architecture
+- SOLID principles
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+---
 
-```text
-🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-🌆 Daytime                62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌃 Evening                139 commits         ██████████████░░░░░░░░░░░   55.60 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+## 💼 Currently
 
-```text
-Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Sunday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-```
+- Working as a backend engineer with LATAM teams
+- Improving skills in Go, Python and AWS certifications
+- Building tools, libraries and side projects focused on backend engineering
 
+---
 
-📊 **This Week I Spent My Time On** 
+## 📌 Featured Projects
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+👉 Check my pinned repositories below for:
+- Backend services with real-world architecture
+- Clean and scalable system designs
+- Experiments with Go, Kotlin and cloud-native patterns
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+Each project includes documentation explaining **technical decisions and trade-offs**.
 
-🔥 Editors: 
-No Activity Tracked This Week
+---
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+## ☕ Support My Open-Source Work
 
-💻 Operating System: 
-No Activity Tracked This Week
-```
+If my projects, code examples or libraries help you in any way, you can support my open-source work and side projects here:
 
-**I Mostly Code in JavaScript** 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SEU_USUARIO)
 
-```text
-JavaScript               13 repos            ███████████████████░░░░░░   76.47 % 
-Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
+Your support helps me:
+- Maintain and improve existing projects
+- Create new open-source tools
+- Share more technical content and experiments
 
+---
 
+## 📫 Get in Touch
 
-**Timeline**
+- LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN
+- GitHub: https://github.com/adilsoncruz
 
-![Lines of Code chart](https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/main/assets/bar_graph.png)
+---
 
+⭐️ Feel free to explore the repositories, open issues, or start a discussion.
 
- Last Updated on 28/12/2025 18:42:58 UTC
-<!--END_SECTION:waka-->
-
-<!--
-**adilsoncruz/adilsoncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
