@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/master/name.svg" alt="Adilson Cruz" />
 </h1>
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/adilsoncruz)
+
 Hi! 👋
 I’m a developer who builds open-source projects focused on solving real-world problems, sharing knowledge, and making other developers’ lives easier.
 
@@ -10,6 +12,7 @@ A big part of my time goes into:
 Building and maintaining open-source libraries
 
 Creating reusable technical tools
+
  
 [![Linkedin: anmol](https://img.shields.io/badge/-adilsoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsoncruz/)](https://www.linkedin.com/in/adilsoncruz/)
 
