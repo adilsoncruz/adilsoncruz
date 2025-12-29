@@ -2,31 +2,50 @@
   <img src="https://raw.githubusercontent.com/adilsoncruz/adilsoncruz/master/name.svg" alt="Adilson Cruz" />
 </h1>
 
-ola, sou o Adilson, Software Engineer, atuando em diferentes tipos de projeto com ferramentas e tecnologias diferentes. Projetos em arquitetura de microservicos, baseadas em eventos e serverless.
-Trabalho em equipe, ajudando e aprendendo sempre, definindo melhores opcoes para a arquitetura de novos projetos.
-Desenvolvimento seguindo os principios de clear code, Clean Architecture e TDD.
+Hi! 👋
+I’m a developer who builds open-source projects focused on solving real-world problems, sharing knowledge, and making other developers’ lives easier.
+
+A big part of my time goes into:
+
+Building and maintaining open-source libraries
+
+Creating reusable technical tools
  
 [![Linkedin: anmol](https://img.shields.io/badge/-adilsoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsoncruz/)](https://www.linkedin.com/in/adilsoncruz/)
 
 ```javascript
 const adilson = {
-    pronouns: "Ele" | "Dele",
-    code: ["Javascript", "GoLang", "python" ],
-    askMeAbout: ["web dev", "tech", "backend", "rock and roll"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express", "Hapi", "Typescript"],
-        },
-        mobileApp: {
-            hybrid: ["React Native"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "redis", "dynamo", "Oracle"],
-        misc: ["RabbitMq", "Sqs", "Kafka", "Nifi" ]
+  pronouns: "he/him",
+  role: "Backend Software Engineer",
+  code: ["JavaScript", "TypeScript", "Go", "Python", "Kotlin"],
+  askMeAbout: ["backend", "web development", "system design", "open source", "rock and roll 🤘"],
+  technologies: {
+    backEnd: {
+      js: ["Node.js", "Fastify", "Express", "Hapi"],
+      kotlin: ["Spring Boot", "Spring Framework"],
+      go: ["Gin", "Fiber"]
     },
-    architecture: ["Serverless Architecture", "MicroServices Architecture", "event-driven architecture", "Single page applications"],
-    misc: [ "Clear Code", "Clear architecture", "S.O.L.I.D"],
-    currentFocus: "Learnning Go,python and AWS Certificate",
+    mobile: {
+      hybrid: ["React Native"]
+    },
+    devOps: ["AWS", "Docker 🐳", "Nginx", "Route53"],
+    databases: ["MongoDB", "Redis", "DynamoDB", "Oracle"],
+    messaging: ["RabbitMQ", "SQS", "Kafka", "NiFi"]
+  },
+  architecture: [
+    "Microservices",
+    "Serverless",
+    "Event-driven architecture",
+    "REST APIs",
+    "Single Page Applications"
+  ],
+  principles: ["Clean Code", "Clean Architecture", "SOLID"],
+  currentFocus: [
+    "Go & Python deep dive",
+    "Cloud architecture on AWS",
+    "AWS Certifications",
+    "Open source projects"
+  ]
 };
 ```
 <!--START_SECTION:waka-->
