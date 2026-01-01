@@ -60,7 +60,7 @@ Each project includes documentation explaining **technical decisions and trade-o
 
 If my projects, code examples or libraries help you in any way, you can support my open-source work and side projects here:
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SEU_USUARIO)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/adilsoncruz)
 
 Your support helps me:
 - Maintain and improve existing projects
@@ -71,7 +71,7 @@ Your support helps me:
 
 ## 📫 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/adilsoncruz
 - GitHub: https://github.com/adilsoncruz
 
 ---
