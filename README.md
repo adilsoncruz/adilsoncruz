@@ -4,9 +4,9 @@
 
 ## 👋 Hi, I'm Adilson Cruz
 
-Backend Software Engineer focused on building scalable, reliable systems and clean architectures.
-
-I work with distributed teams across Latin America (Argentina, Colombia and Chile), delivering backend solutions with strong emphasis on performance, maintainability and cloud-native design.
+I am a Software Engineer with experience in Front-End and Back-End development, software architecture and distributed systems. I find it easy to adapt to different technologies, contexts and challenges, without limiting myself to a specific language or tool. I believe that technology should be chosen according to the problem that needs to be solved. 
+My work goes beyond implementing requirements. I seek to understand the business context, question existing solutions, and identify opportunities for improvement that generate value for the product, users, and the company. 
+I value critical thinking, autonomy, collaboration and clear communication. I have the ability to move between different areas, share knowledge, and work on solving complex problems, striving to balance technical quality, simplicity, and efficiency. I also explore new ways to develop software through AI-First Engineering, utilizing AI agents, Claude Code, Skills, MCP, and Context Engineering to enhance engineering processes and explore new development possibilities.
 
 ---
 
